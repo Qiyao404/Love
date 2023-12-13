@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90818892154",
+    "project_id": "love-1e36c",
+    "storage_bucket": "love-1e36c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90818892154:android:b635f609c4d08d34c886c3",
+        "android_client_info": {
+          "package_name": "com.example.love"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBirpgxvqDmz-SaJ4Myf8pPvEBmTzQfyu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

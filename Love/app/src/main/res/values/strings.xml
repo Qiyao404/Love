@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Love</string>
+    <string name="call_qiyao">Call Qiyao</string>
+    <string name="sent_sms">Sent SMS</string>
+    <string name="love">LOVE!</string>
+    <string name="go_to_message">Go to Message</string>
+    <string name="your_apple_pies_are_the_best">Your apple pies are the best</string>
+    <string name="wise_man_quote">A wise man once said: "Even if he had women, daughters and sisters, the only woman whose love a man knows as unconditional is his mother's"</string>
+    <string name="show_quote">Show Quote</string>
+</resources>
